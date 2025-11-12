@@ -16,3 +16,7 @@ h1 {
 .links {
     filter: drop-shadow(3px 3px 5px black);
 }
+
+.active {
+    color: green;
+}
