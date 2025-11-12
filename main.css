@@ -18,7 +18,9 @@ h1 {
 }
 
 .active {
-    background-color:green;
+    background-color: yellow;
+    text-decoration: none;
 }
+
 
 
